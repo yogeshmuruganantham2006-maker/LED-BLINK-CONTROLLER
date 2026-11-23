@@ -1,0 +1,11 @@
+
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+.Xil/
+.cache/
+.ip_user_files/
+*.bit
+*.ltx
