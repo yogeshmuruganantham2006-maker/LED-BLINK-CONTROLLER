@@ -1,2 +1,29 @@
-# LED-BLINK-CONTROLLER
-VLSI LED Blink Controller is a digital design project implemented using Verilog HDL. It uses clock dividers and counters to generate periodic ON/OFF signals for an LED. The project demonstrates sequential logic, timing control, RTL simulation, and FPGA synthesis using Xilinx Vivado.
+VLSI LED Blink Controller
+
+Overview
+
+A digital VLSI project designed using Verilog HDL to control LED blinking at regular intervals using clock dividers and counters.
+
+Features
+
+- Periodic LED ON/OFF control
+- Clock divider implementation
+- Counter-based timing
+- Verilog HDL design
+- RTL simulation and verification
+
+Tools Used
+
+- Verilog HDL
+- Xilinx Vivado
+- RTL Simulation
+
+Applications
+
+- Digital logic design
+- FPGA-based projects
+- VLSI learning and experimentation
+
+Author
+
+Yogesh M
